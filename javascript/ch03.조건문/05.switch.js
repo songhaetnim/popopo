@@ -17,7 +17,3 @@ switch(parseInt(score/10)) {
             grade = 'F';
 }
 console.log(`점수: ${score},학점:${grade}`);
-
-
-
-
